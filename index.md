@@ -17,7 +17,7 @@ Welcome to the official homepage of **Orb 3D** (3D Circular Block Puzzle) for iO
 ## 1. Game Overview & Instructions
 
 ### Game Rules
-* **Circular Playfield**: The game board is a 3D cylinder with a grid size of **18 × 10**. Each horizontal row consists of a ring of 18 blocks, with a maximum height of 10 blocks.
+* **Circular Playfield**: The game board is a 3D cylinder with a grid size of **18 × 15**. Each horizontal row consists of a ring of 18 blocks, with a maximum height of 10 blocks.
 * **Falling Blocks**: Each falling piece (tetromino) is made up of 4 individual blocks.
 * **Line Clearance**: When you successfully fill an entire horizontal ring of 18 blocks, that row is cleared, and points are awarded.
 * **Victory Condition**: Safely place and complete **100 components** to pass the level.
